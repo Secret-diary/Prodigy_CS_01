@@ -3,6 +3,7 @@
 This is a simple Python script that allows you to encrypt or decrypt messages using the Caesar cipher.
 
 ##Overview
+
 The Caesar cipher is a basic encryption method where each letter in a message is shifted a fixed number of positions in the alphabet. For example, with a shift of 3, 'A' becomes 'D'. Decryption reverses the process
 
 
@@ -18,9 +19,13 @@ The Caesar cipher is a basic encryption method where each letter in a message is
 
 1)Enter the message: first task  
      2)Enter the shift value: 5
+
       3)Encrypt or Decrypt? (Type 'encrypt' or 'decrypt'): encrypt
+
       4)Do you want to save the output to a file? (yes/no): yes
+
       5)Result: knwxy yfxp
+
       6)Output saved to 'encrypt.txt' in the current working directory.
 
 
