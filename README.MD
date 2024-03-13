@@ -17,7 +17,8 @@ The Caesar cipher is a basic encryption method where each letter in a message is
 
 ## Example
 
-1)Enter the message: first task  
+     1)Enter the message: first task
+
      2)Enter the shift value: 5
 
       3)Encrypt or Decrypt? (Type 'encrypt' or 'decrypt'): encrypt
