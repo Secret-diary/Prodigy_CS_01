@@ -17,10 +17,10 @@ The Caesar cipher is a basic encryption method where each letter in a message is
 ## Example
 
 Enter the message: first task  
-Enter the shift value: 5
-Encrypt or Decrypt? (Type 'encrypt' or 'decrypt'): encrypt
-Do you want to save the output to a file? (yes/no): yes
-Result: knwxy yfxp
-Output saved to 'encrypt.txt' in the current working directory.
+     Enter the shift value: 5
+      Encrypt or Decrypt? (Type 'encrypt' or 'decrypt'): encrypt
+      Do you want to save the output to a file? (yes/no): yes
+      Result: knwxy yfxp
+      Output saved to 'encrypt.txt' in the current working directory.
 
 
