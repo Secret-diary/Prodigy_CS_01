@@ -10,14 +10,23 @@ The Caesar cipher is a basic encryption method where each letter in a message is
 ## Usage
 
 1.Clone the repository to your local machine:
+
        https://github.com/Secret-diary/Prodigy_CS_01.git
+
 2. Navigate to the Project directory 
+
         cd prodigy
+
 3. Run the script by executing 
+
         `python3 prodigy_cs_01.py`.
+
 4. Enter the message you want to encrypt or decrypt when prompted.
+
 5. Enter the shift value to use for the cipher.
+
 6. Choose whether you want to encrypt or decrypt the message.
+
 7. Optionally, choose whether you want to save the output to a file.
 
 ## Example
